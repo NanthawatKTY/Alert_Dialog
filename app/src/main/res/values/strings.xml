@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alert_Dialog</string>
+    <string name="close_app">Close App</string>
+    <string name="dialog_message">Welcome to Alert Dialog</string>
+    <string name="dialog_title">Android Alert Dialog</string>
+    <string name="show_item_dia">Show Item Dialog</string>
+    <string name="show_single">Show Single Choice Dialog</string>
+    <string name="show_multi">Show Multi Choice Dialog</string>
+</resources>
